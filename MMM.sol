@@ -1,15 +1,3 @@
-/**
- *Submitted for verification at Etherscan.io on 2023-07-22
-*/
-
-/**
-
-https://t.me/MagicMiladyMoney
-
-https://magicmiladymoney.wtf/
-
-https://twitter.com/MagicMilady
-
 **/
 
 // SPDX-License-Identifier: MIT
